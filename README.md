@@ -2,4 +2,4 @@
 adversent main files 
 master repository for adversent
 
-please do not copy all rights reserved to adversent.com 
+please do not copy we reserve all the rights.
